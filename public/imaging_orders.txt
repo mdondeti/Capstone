@@ -1,0 +1,38 @@
+Chest Xray PA/Lat
+Chest Xray PA
+Chest Xray Lat
+Right Ribs Xray
+Left Ribs Xray
+Right Shoulder Xray
+Left Shoulder Xray
+Right Humerus Xray
+Left Humerus Xray
+Right Elbow Xray
+Left Elbow Xray
+Right Forearm Xray
+Left Forearm Xray
+Right Wrist Xray
+Left Wrist Xray
+Right Hand Xray
+Left Hand Xray
+Right Finger Xray
+Left Finger Xray
+Right Hip Xray
+Left Hip Xray
+Pelvis Xray
+Right Femur Xray
+Left Femur Xray
+Right Knee Xray
+Left Knee Xray
+Right Tib-Fib Xray
+Left Tib-Fib Xray
+Right Ankle xray
+Left Ankle Xray
+Right Foot Xray
+Left Foot Xray
+Right Toe Xray
+Left Toe Xray
+Cspine Xray
+Tspine Xray
+Lspine Xray
+Panorex Xray
